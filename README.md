@@ -19,25 +19,21 @@ $ omf install simple-and-clean
 
 ## Features
 
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
-
+* wip
 
 ## Screenshot
 
 <p align="center">
-<img src="{{SCREENSHOT_URL}}">
+<img src="https://user-images.githubusercontent.com/34167982/191141798-0c05863a-7c6a-4553-b21f-c44119b8744e.png">
 </p>
-
 
 # License
 
-[MIT][mit] © [felipeymn][author] et [al][contributors]
+[MIT][mit] © [felipeymn][author] 
 
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/theme-simple-and-clean/graphs/contributors
+[author]:         https://github.com/felipeymn
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
