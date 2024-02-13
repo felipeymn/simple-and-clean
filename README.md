@@ -17,10 +17,6 @@ $ omf install simple-and-clean
 ```
 
 
-## Features
-
-* wip
-
 ## Screenshot
 
 <p align="center">
