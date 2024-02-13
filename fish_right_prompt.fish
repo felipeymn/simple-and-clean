@@ -23,7 +23,7 @@ function fish_right_prompt
       set cwd (echo $PWD | sed -e "s|$parent_root_folder/||")
     end
     echo -n -s $directory_color " " $translucent_color $cwd " " 
-    echo -n -s $git_color "  " $translucent_color (git_branch_name) " "
+    echo -n -s $git_color "  " $translucent_color (git_branch_name) " "
     if git_is_touched
       echo -n -s $dirty " "
     else
@@ -32,6 +32,6 @@ function fish_right_prompt
   else
 echo -n -s $directory_color " " $translucent_color $cwd " "
   end
-  echo -n -s $clock_color "  " $translucent_color
+  echo -n -s $clock_color "  " $translucent_color
   date "+%I:%M:%S %p"
 end
